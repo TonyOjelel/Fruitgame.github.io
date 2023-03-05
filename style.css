@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+.grid {
+    height: 560px;
+    width: 560px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.grid div {
+    height: 70px;
+    width: 70px;
+}
+
+h1, h2 {
+    text-align: center;
+}
